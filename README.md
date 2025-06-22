@@ -38,7 +38,7 @@ Visit: [http://127.0.0.1:5500/landing.html](http://127.0.0.1:5500/landing.html)
 1. Download all the files and folders given.
 2. Note that the css and js folders need to be named accordingly (For hierarchy purposes)
 3. Next download all the images and video in this google drive link [https://drive.google.com/drive/folders/1DswnFTqiU5t2JHB5zkoQADTcez5GFM9x?usp=sharing](https://drive.google.com/drive/folders/1DswnFTqiU5t2JHB5zkoQADTcez5GFM9x?usp=sharing)
-4. Note that all media in this google drive needs to be downloaded into an 'img' folder
+4. Note that all media in this google drive needs to be downloaded into an 'img' folder and all image files should retain the same name.
 5. Once all html files, cs, js, and img folders (all with the same name and lowercase) then site is ready to run.
 6. Using vscode, right click on the landing.html and choose open with live server.
 7. Website should then run on localhost (E.g. 127.0.0.1:5500)
